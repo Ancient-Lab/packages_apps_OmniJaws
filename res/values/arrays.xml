@@ -36,9 +36,37 @@
     <string-array name="update_interval_entries" translatable="false">
         <item>@string/interval_15_minutes</item>
         <item>@string/interval_30_minutes</item>
+        <item>@string/interval_45_minutes</item>
+        <item>@string/interval_60_minutes</item>
+        <item>@string/interval_75_minutes</item>
+        <item>@string/interval_90_minutes</item>
+        <item>@string/interval_105_minutes</item>
+        <item>@string/interval_120_minutes</item>
+        <item>@string/interval_135_minutes</item>
+        <item>@string/interval_150_minutes</item>
+        <item>@string/interval_165_minutes</item>
+        <item>@string/interval_180_minutes</item>
+        <item>@string/interval_195_minutes</item>
+        <item>@string/interval_210_minutes</item>
+        <item>@string/interval_225_minutes</item>
+        <item>@string/interval_240_minutes</item>
     </string-array>
     <string-array name="update_interval_values" translatable="false">
         <item>1</item>
         <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
     </string-array>
 </resources>
